@@ -3,10 +3,10 @@
     "type": "library",
     "description": "Cms Modules",
     "require": {
-        "oomphinc/composer-installers-extender": "~1.0"
+        "oomphinc/composer-installers-extender": "*"
     },
     "require-dev": {
-        "oomphinc/composer-installers-extender": "~1.0"
+        "oomphinc/composer-installers-extender": "*"
     },
     "extra": {
         "installer-paths":{
