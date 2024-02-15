@@ -8,11 +8,6 @@
     "require-dev": {
         "oomphinc/composer-installers-extender": "*"
     },
-    "extra": {
-        "installer-paths":{
-            "./asd": ["seoegypt/asd"]
-        }    
-    },
     "autoload": {
         "psr-4": {
         }
