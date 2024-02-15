@@ -1,6 +1,6 @@
 {
     "name": "seoegypt/asd",
-    "type": "laravel-library",
+    "type": "library",
     "description": "Cms Modules",
     "require": {
         "oomphinc/composer-installers-extender": "*"
