@@ -1,6 +1,5 @@
 {
     "name": "seoegypt/asd",
-    "type": "library",
     "description": "Cms Modules",
     "require": {
         "oomphinc/composer-installers-extender": "*"
