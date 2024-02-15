@@ -1,13 +1,12 @@
 {
     "name": "seoegypt/asd",
     "description": "Cms Modules",
-    "type": "library",
-    "keywords": [
-        "cms"
-    ],
+    "type": "cms-modules",
     "require": {
+        "composer/installers": "~1.0"
     },
     "require-dev": {
+        "composer/installers": "~1.0"
     },
     
     "autoload": {
