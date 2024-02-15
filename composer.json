@@ -1,0 +1,21 @@
+{
+    "name": "seoegypt/asd",
+    "description": "Cms Modules",
+    "type": "library",
+    "keywords": [
+        "cms"
+    ],
+    "require": {
+    },
+    "require-dev": {
+    },
+    
+    "autoload": {
+        "psr-4": {
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+        }
+    }
+}
